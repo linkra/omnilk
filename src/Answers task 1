@@ -1,0 +1,10 @@
+* Answers:
+    1. Before this assignment I should have used Spring MVC since I'm more familiar with it. But it should be very interesting and fun to use
+    other frameworks as JAX-RS. Maven I should have used, Guava is new to me but it seems to be very useful. I did find an article in this topic,
+    which I red and I found it interesting: http://www.infoq.com/articles/springmvc_jsx-rs
+    Dropwizard is also a new framework but I like it. Jackson and Jetty I did use before. I have used Tomcat more than Jetty, and should probably have choose that one by old habit. But if Jetty is sufficient there is no reason to change.
+
+    2. My impression is that the frameworks you did choose eases the developing process
+    and when you got the deep understanding they helps you to make fast and simple solutions.
+    Simple solutions for me means easy to maintain and high modularity making it possible to scale,
+    increase performance and in a efficient way extend the system.
