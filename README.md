@@ -67,16 +67,3 @@ And remember, this is meant to be fun.
     1. What effect did applying the rules have on your code?
     2. Anything that became better?
     3. Anything that became worse?
-
-
-    1. You're not allowed to have any getter/setter methods
-       (that's to say you must not have any methods that expose/leak values from a class)
-
-    2. You're only allowed to have one level of indention per method
-       (tip: use "extract method" until you've achieved one level of indention)
-
-    3. Any given class must not have more than 2 instance variables
-       (tip: group data into separate smaller objects)
-
-    4. You're not allowed to use `else`, `else if` or `switch`
-       (regular `if` statements are fine)
